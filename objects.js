@@ -58,7 +58,7 @@ var emailObject = {
   sender: "Woody",
   subject: "This week's schedule",
   bodyText: "M-F 3am-10am",
-  signOff: "Sincerely",
+  signOff: "See you at home",
 }
 console.log(Object.keys(emailObject));
 
@@ -115,3 +115,28 @@ console.log(posts[0]);
 // YOU DO: Create an array of at least 3 EMAIL Objects, using the same 
 // key-value pairs you used in your email Object above.
 // Then, print the email Array to the Terminal.
+
+emailsRecievedToday = [
+  {
+  recipient: "Kristin",
+  sender: "Woody",
+  subject: "This week's schedule",
+  bodyText: "M-F 3am-10am",
+  signOff: "See you at home",
+},
+{
+recipient: "Kristin",
+sender: "Mom",
+subject: "Checking in",
+bodyText: "How are you?",
+signOff: "Love",
+},
+{
+  recipient: "Kristin",
+  sender: "Spam@spam.com",
+  subject: "You've won a free car!!!",
+  bodyText: "Syke B)",
+  signOff: "Best",
+}
+]
+console.log(emailsRecievedToday);
