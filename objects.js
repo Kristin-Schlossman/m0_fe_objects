@@ -42,15 +42,29 @@ console.log(foods);
 // value should be some appropriate value for that key. Work to have at least 5 key-value pairs.
 
 // Write code that logs your email object to the terminal.
-
+var emailObject = {
+  recipient: "Kristin",
+  sender: "Woody",
+  subject: "This week's schedule",
+  bodyText: "M-F 3am-10am",
+  signOff: "Sincerely",
+}
+console.log(emailObject);
 
 // Write code that logs all of the 'keys' of the email object 
 // you created above:
-// YOUR CODE HERE
+var emailObject = {
+  recipient: "Kristin",
+  sender: "Woody",
+  subject: "This week's schedule",
+  bodyText: "M-F 3am-10am",
+  signOff: "Sincerely",
+}
+console.log(Object.keys(emailObject));
 
 // Write code that logs all of the 'values' of the email object 
 // you created above:
-// YOUR CODE HERE
+console.log(Object.values(emailObject));
 
 
 // -------------------
