@@ -1,5 +1,8 @@
 # Self-Evaluation
 
-- WThis final CFU encompassed everything you've learned in Mod 0, and maybe even required some learning outside of what you've explicitly been taught. How did it feel as you faced these challenges?
+- This final CFU encompassed everything you've learned in Mod 0, and maybe even required some learning outside of what you've explicitly been taught. How did it feel as you faced these challenges?
+    There are some elements of mod 0 that I am so proud of. On day one I'd never really accessed the terminal before, now I do that with ease and enough confidence to be dangerous. I can feel the basics starting to click into place, and I feel more comfortable going in search of information that I don't know -- and encountering a ton of vocab that may not make sense right now. I didn't let my own lack of knowledge frustrate and defeat me. I made steady steps forward and that is the definition of success to me. Every day I tried to be better than the day before, especially where scheduling was concerned. I'm really proud. 
 - How is your workflow going, in terms of taking breaks, staying focused, etc.?
+    Great! this last week I've really committed to pomodorro and that has helped immeasurably. It's hard be motivated to study when it looks like spending 5 hours glued to my chair, but 25 minute sessions are more attainable, more purposeful, and more organized. 
 - What did you learn from this exercise that you want to remember as you begin Mod 1?
+    It will come. Don't give up. Ask for help, and plan ahead. 
